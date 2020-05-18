@@ -1,4 +1,6 @@
- /* 팝업박스 전체페이지 (주변회색포함)*/
+
+
+/* 팝업박스 전체페이지 (주변회색포함)*/
  #popupBoxPf {
     display: none;
     position: fixed;
@@ -44,8 +46,8 @@
     cursor: pointer;
 }
 
-.pf{background-color:#0f4c81; margin: 0; padding:0; max-width: 650px}
-.pf h2{font-weight: bold; text-align: center;color: white; font-size: 30px; margin-top: 5px;margin-bottom:15px;}
+.pf{background-color:#0f4c81; margin: 0; padding:0; max-width: 650px; font-family: 'Nanum Gothic', sans-serif;}
+.pf h2{text-align: center;color: white; font-size: 30px; margin-top: 5px;margin-bottom:15px; font-family: 'Black Han Sans', sans-serif;}
 .pf h3{font-weight: bold; margin: 0; margin-top: 5px; font-size: 20px;color: #0f4c81; padding: 5px;}
 .pf p{ color: #0f4c81; margin: 0; padding: 5px;}
 
